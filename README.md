@@ -2,7 +2,7 @@
 
 This is a basic portfolio website, built with HTML and CSS. It will provide relevant personal information as well as a showcase of different web and application development projects.
 
-### Site Structure
+## Site Structure
 
 ### Pages
 
@@ -16,6 +16,6 @@ This is a basic portfolio website, built with HTML and CSS. It will provide rele
 - css
 - images
 
-### Published
+## Published
 <https://arobl034.github.io/.>
 
